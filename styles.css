@@ -1,11 +1,16 @@
+html, body {
+  height: 50%;
+}
+
 body {
   color: #2f80ed;
   font-family: Avenir, Helvetica, Arial, sans-serif;
+  display: flex;
+  align-items: center;
 }
 
 .content {
   margin: 0 auto; 
-  margin-top: 80px;
   max-width: 520px;
   max-height: 190px;
 }
