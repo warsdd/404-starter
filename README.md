@@ -9,7 +9,7 @@ Project completed as part of the ***Practicum by Yandex*** Web Development cours
 ## Technologies and Techniques
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript (inactive)
 - Link and hover animations
 
 ## Next Steps
