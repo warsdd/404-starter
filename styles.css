@@ -29,6 +29,12 @@ body {
   font-size: 120px;
   line-height: 140px;
   font-weight: 400;
+  cursor: pointer;
+}
+
+.text-subtitle {
+  margin: 0;
+  padding-bottom: 30px;
 }
 
 .message {
@@ -42,7 +48,7 @@ body {
 
 .footer-content {
   margin: 0;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 18px;
   font-weight: normal;
   position: absolute;
@@ -55,8 +61,14 @@ body {
 
 .footer-link {
   color: #2f80ed;
+  font-weight: bold;
 }
 
 .footer-link:visited {
   color: #2f80ed;
+}
+
+.footer-copyright {
+  text-align: center;
+  font-size: 14px;
 }
