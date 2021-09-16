@@ -13,5 +13,6 @@ Project completed as part of the ***Practicum by Yandex*** Web Development cours
 - Link and hover animations
 
 ## Next Steps
+- Fix issue with favicon file path
 - Add additional interactive elements
 - Add further animations
