@@ -40,6 +40,7 @@ body {
 .text-subtitle {
   margin: 0;
   padding-bottom: 30px;
+  font-weight: bold;
 }
 
 .message {
@@ -67,6 +68,7 @@ body {
 .footer-link {
   color: #2f80ed;
   font-weight: bold;
+  text-decoration: none;
   transition: opacity 0.3s linear;
 }
 
