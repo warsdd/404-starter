@@ -1,6 +1,6 @@
 # 404 Error Page
 
-### Landing page with 404 error message.
+### Responsive landing page with 404 error message.
 
 Project completed as part of the ***Practicum by Yandex*** Web Development course.
 
@@ -11,3 +11,7 @@ Project completed as part of the ***Practicum by Yandex*** Web Development cours
 - CSS3
 - JavaScript
 - Link and hover animations
+
+## Next Steps
+- Add additional interactive elements
+- Add further animations
