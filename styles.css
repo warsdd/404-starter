@@ -1,0 +1,62 @@
+body {
+  color: #2f80ed;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+}
+
+.content {
+  margin: 0 auto; 
+  margin-top: 110px;
+  max-width: 520px;
+  max-height: 190px;
+}
+
+.empty-boxes {
+  width: 100%;
+}
+
+.text:hover .message {
+  opacity: 1;
+}
+
+.text {
+  margin: 0 auto;
+  max-width: 400px;
+  text-align: center;
+}
+
+.text-header {
+  margin: 0px;
+  font-size: 120px;
+  line-height: 140px;
+  font-weight: 400;
+}
+
+.message {
+  margin: 0;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  opacity: 0;
+  transition: opacity .4s ease-in-out;
+}
+
+.footer-content {
+  margin: 0;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: normal;
+  position: absolute;
+  bottom: 30px;
+  min-width: 400px;
+  left: 0px;
+  right: 0px;
+  text-align: center;
+  }
+
+.footer-link {
+  color: #2f80ed;
+}
+
+.footer-link:visited {
+  color: #2f80ed;
+}
