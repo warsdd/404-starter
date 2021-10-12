@@ -2,7 +2,7 @@
 
 ### Responsive landing page with 404 error message.
 
-Project completed as part of the ***Practicum by Yandex*** Web Development course.
+A short project completed as part of the [***Practicum by Yandex***](https://practicum.yandex.com/) Web Development course.
 
 [See the live Github page here](https://warsdd.github.io/404-starter/)
 
